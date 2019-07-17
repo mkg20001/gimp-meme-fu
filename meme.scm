@@ -22,7 +22,7 @@
   ; move below text
 )
 (script-fu-register "FU-meme"
-    "<Image>/Script-Fu/Contrast/Auto Contrast"
+    "<Image>/Script-Fu/Artistic/Meme"
     "Make the text layer use a meme-font style (Impact Condensed + Background)"
     "Maciej Krüger"
     "Maciej Krüger"
