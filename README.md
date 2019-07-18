@@ -11,3 +11,9 @@ Clone this repository and link the script into your gimp plugin folder by runnin
 The instructions this script executes have been translated from this blog post https://snapguide.com/guides/create-memes-using-gimp/
 
 # Dev
+
+Link the script into your GIMP script folder, usually found under `$HOME/.config/GIMP/2.10/scripts/`
+
+```console
+$ ln -s $PWD/meme.scm $HOME/.config/GIMP/2.10/scripts/
+```

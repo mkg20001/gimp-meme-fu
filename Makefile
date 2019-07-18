@@ -1,2 +1,2 @@
 install:
-	ln -s meme.scm $(wildcard /usr/share/gimp/*/scripts)
+	install -o root -g root -m 755 -D meme.scm $(wildcard /usr/share/gimp/*/scripts)
